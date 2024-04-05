@@ -27,7 +27,7 @@
             Familiar with node.js, MongoDB, Mysql
           </li>
           <br>
-          <img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,nextjs,postgres,react,tailwind,ts">
+          <img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,nextjs,postgres,react,tailwind,ts" width="300">
     </ol>
         
   </div>
