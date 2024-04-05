@@ -1,7 +1,11 @@
-#  About me <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e8b60ba-4c38-48f8-b55d-e3059ab520d7/dfogi2p-e14bb0f1-9e1d-4fe4-bda4-01b8a23544b9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlOGI2MGJhLTRjMzgtNDhmOC1iNTVkLWUzMDU5YWI1MjBkN1wvZGZvZ2kycC1lMTRiYjBmMS05ZTFkLTRmZTQtYmRhNC0wMWI4YTIzNTQ0YjkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.quNKesqcUIaS6DwhJnlCkeJ-DPSh911hCS1wdlZ1x2g" style="height:50px"> 
+<style>
+abc {color:red;}
+</style>
+
+# 🩷 About me <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e8b60ba-4c38-48f8-b55d-e3059ab520d7/dfogi2p-e14bb0f1-9e1d-4fe4-bda4-01b8a23544b9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlOGI2MGJhLTRjMzgtNDhmOC1iNTVkLWUzMDU5YWI1MjBkN1wvZGZvZ2kycC1lMTRiYjBmMS05ZTFkLTRmZTQtYmRhNC0wMWI4YTIzNTQ0YjkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.quNKesqcUIaS6DwhJnlCkeJ-DPSh911hCS1wdlZ1x2g" style="height:50px"> 🩷 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F756EE&background=FFADFA48&random=false&width=800&lines=Welcome!+to+my+profile🩷🩷🩷;Nice+to+meet+you!!!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F756EE&background=FFADFA00&random=false&width=800&lines=Welcome!+to+my+profile🩷🩷🩷;Nice+to+meet+you🩷🩷🩷;" />
 
 
 
@@ -12,7 +16,9 @@
 
   <div>
     <h3>
-     My Skills 🪶
+     <abc>
+            My Skills 🪶
+     </abc>     
     </h3>
     <ol>
         <li>
