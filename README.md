@@ -27,9 +27,9 @@
             Familiar with node.js, MongoDB, Mysql
           </li>
     </ol>
+        <img align="right" src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,nextjs,postgres,react,tailwind,ts">
   </div>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,nextjs,postgres,react,tailwind,ts)](https://skillicons.dev)
 
 
