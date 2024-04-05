@@ -1,7 +1,3 @@
-<style>
-abc {color:red;}
-</style>
-
 # 🩷 About me <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e8b60ba-4c38-48f8-b55d-e3059ab520d7/dfogi2p-e14bb0f1-9e1d-4fe4-bda4-01b8a23544b9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlOGI2MGJhLTRjMzgtNDhmOC1iNTVkLWUzMDU5YWI1MjBkN1wvZGZvZ2kycC1lMTRiYjBmMS05ZTFkLTRmZTQtYmRhNC0wMWI4YTIzNTQ0YjkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.quNKesqcUIaS6DwhJnlCkeJ-DPSh911hCS1wdlZ1x2g" style="height:50px"> 🩷 
 
 
@@ -16,9 +12,7 @@ abc {color:red;}
 
   <div>
     <h3>
-     <abc>
-            My Skills 🪶
-     </abc>     
+            My Skills 🪶     
     </h3>
     <ol>
         <li>
@@ -34,7 +28,7 @@ abc {color:red;}
             Familiar with node.js, MongoDB, Mysql
           </li>
           <br>
-          <img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,nextjs,postgres,react,tailwind,ts" width="300">
+          <img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,nextjs,postgres,react,tailwind,ts" width="500">
     </ol>
         
   </div>
