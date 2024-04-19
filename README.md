@@ -7,7 +7,7 @@
 
 <div >
       <div>
-        <img align="left" src="https://i.pinimg.com/564x/dc/98/ae/dc98ae04a681496bd90f4dbac7c78206.jpg" width="300">
+        <img align="left" src="https://i.pinimg.com/564x/dc/98/ae/dc98ae04a681496bd90f4dbac7c78206.jpg" width="400">
       </div>
 
   <div>
@@ -35,20 +35,28 @@
 </div>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 # 🩷 My performance 🩷
 
 
 <div>
-      <img align="left" src="https://i.pinimg.com/736x/4e/79/5b/4e795b697a15d54159e67132ea04b9ad.jpg" width="300">
+      <img align="left" src="https://i.pinimg.com/736x/4e/79/5b/4e795b697a15d54159e67132ea04b9ad.jpg" width="400" >
 </div>      
 
 
-
+- Advanced React patterns
+  
 ![tuckkrub00's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuckkrub00&show_icons=true&theme=radical)
+
+- Advanced React patterns
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuckkrub00&layout=compact&theme=radical)
-     
+
 
 
 
