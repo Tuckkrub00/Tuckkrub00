@@ -7,8 +7,7 @@
 
 <div >
       <div>
-        <img align="left" src="https://i.pinimg.com/564x/cf/18/ad/cf18ad23ee246a4f9db0d2c9077e9c7d.jpg" width="300">
-            
+        <img align="left" src="https://i.pinimg.com/564x/cf/18/ad/cf18ad23ee246a4f9db0d2c9077e9c7d.jpg" width="300"> 
       </div>
 
   <div>
