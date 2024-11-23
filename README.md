@@ -1,5 +1,4 @@
-# 🩷 About me <img src="chibi,solo,1girl,minato aqua,hololive,bangs,blue hair,multicolored hair,two-tone hair,long hair,purple eyes,breasts,ahoge,braid,streaked hair,colored inner hair,twintails,bow,pink hair,purple hair,ribbon,blunt bangs,medium breasts,hair ribbon,blue ribbon,hair ornament,<lora:Kei_Style_noob-4:1">
- 🩷 
+# 🩷 About me <img src="chibi,solo,1girl,minato aqua,hololive,bangs,blue hair,multicolored hair,two-tone hair,long hair,purple eyes,breasts,ahoge,braid,streaked hair,colored inner hair,twintails,bow,pink hair,purple hair,ribbon,blunt bangs,medium breasts,hair ribbon,blue ribbon,hair ornament,<lora:Kei_Style_noob-4:1">🩷 
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F756EE&background=FFADFA00&random=false&width=800&lines=Welcome!+to+my+profile🩷🩷🩷;Nice+to+meet+you🩷🩷🩷;" />
