@@ -1,4 +1,4 @@
-# 🩷 About me <img src="chibi,solo,1girl,minato aqua,hololive,bangs,blue hair,multicolored hair,two-tone hair,long hair,purple eyes,breasts,ahoge,braid,streaked hair,colored inner hair,twintails,bow,pink hair,purple hair,ribbon,blunt bangs,medium breasts,hair ribbon,blue ribbon,hair ornament,<lora:Kei_Style_noob-4:1>,
+# 🩷 About me <img src="chibi,solo,1girl,minato aqua,hololive,bangs,blue hair,multicolored hair,two-tone hair,long hair,purple eyes,breasts,ahoge,braid,streaked hair,colored inner hair,twintails,bow,pink hair,purple hair,ribbon,blunt bangs,medium breasts,hair ribbon,blue ribbon,hair ornament,<lora:Kei_Style_noob-4:1">,
 Negative prompt: text,username,logo,(low quality, worst quality:1.4),(bad anatomy),(inaccurate limb:1.2),bad composition,inaccurate eyes,extra digit,fewer digits,(extra arms:1.2),
 Steps: 25, CFG scale: 7, Sampler: DPM++ SDE, Seed: 3563739314, Size: 1024x1024, Model: NoobAI-XL (NAI-XL)_Eps-pred100, Version: v1.10.1, Model hash: ff827fc345, Schedule type: Karras, Clip skip: 2" style="height:50px"> 🩷 
 
