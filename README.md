@@ -1,4 +1,4 @@
-# 🩷 About me <img src="https://i.pinimg.com/736x/29/1e/76/291e76bdcb2ea1896643596c35237abd.jpg">🩷 
+# 🩷 About me <img src="https://i.pinimg.com/736x/29/1e/76/291e76bdcb2ea1896643596c35237abd.jpg"  width="20">🩷 
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F756EE&background=FFADFA00&random=false&width=800&lines=Welcome!+to+my+profile🩷🩷🩷;Nice+to+meet+you🩷🩷🩷;" />
