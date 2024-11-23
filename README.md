@@ -1,4 +1,4 @@
-# 🩷 About me <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f5f6d00f-872b-4823-a902-457fae613960/original=true,quality=90/01157-3563739314-chibi,solo,1girl,minato%20aqua,hololive,bangs,blue%20hair,multicolored%20hair,two-tone%20hair,long%20hair,purple%20eyes,breasts,ahoge,braid,.jpeg">🩷 
+# 🩷 About me <img src="https://i.pinimg.com/736x/29/1e/76/291e76bdcb2ea1896643596c35237abd.jpg">🩷 
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F756EE&background=FFADFA00&random=false&width=800&lines=Welcome!+to+my+profile🩷🩷🩷;Nice+to+meet+you🩷🩷🩷;" />
