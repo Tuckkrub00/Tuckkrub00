@@ -1,4 +1,4 @@
-# 🩷 About me <img src="https://media.stickerswiki.app/aquaminato/1573528.512.webp"  width="50">🩷 
+# 🩷 About me <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/29dd7beb-0eac-4f29-9db1-832fc4fb619f/width=640,original=false/05976-3724328254-2023-12-10.jpeg"  width="50">🩷 
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F756EE&background=FFADFA00&random=false&width=800&lines=Welcome!+to+my+profile🩷🩷🩷;Nice+to+meet+you🩷🩷🩷;" />
