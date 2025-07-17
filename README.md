@@ -4,15 +4,45 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F756EE&background=FFADFA00&random=false&width=800&lines=Welcome!+to+my+profile🩷🩷🩷;Nice+to+meet+you🩷🩷🩷;" />
 
 
-
+ <h3>
+       🩷 My personal Skills 🩷
+ </h3>      
+<div>
+  <img src="https://i.pinimg.com/736x/b0/36/18/b03618c27fb4b41b9a881dfc5397fa05.jpg" width="300" align="left" hspace="20" />
+  <div>
+    <h3>AI ML Skills :</h3>
+    <ul>
+      <li>🧠 Machine Learning: Supervised/unsupervised learning, model evaluation</li>
+      <li>🗣️ Natural Language Processing (NLP): Text preprocessing, tokenization, transformers, LLMs (GPT, BERT), Hugging Face</li>
+      <li>🤖 Deep Learning: PyTorch, neural networks, CNNs, RNNs</li>
+      <li>🛠️ Tools & Libraries: Python, NumPy, pandas, spaCy, NLTK, OpenAI API, LangChain, PyTorch Lightning</li>
+      <li>☁️ Deployment & MLOps: Streamlit, FastAPI, Docker</li>    
+    </ul>
+    <h3>Projects & Research :</h3>
+    <ul>
+      <li>Fine-tuned a large language model (LLM) to develop a chatbot capable of providing health counseling, enhanced with retrieval-augmented generation (RAG) for accurate and context-aware responses.</li>
+      <li>Built an AI service to extract tabular data from documents with high accuracy</li>
+      <li>🤖 Deep Learning: PyTorch, neural networks, CNNs, RNNs</li>
+      <li>🛠️ Tools & Libraries: Python, NumPy, pandas, spaCy, NLTK, OpenAI API, LangChain, PyTorch Lightning</li>
+      <li>☁️ Deployment & MLOps: Streamlit, FastAPI, Docker</li>    
+    </ul>    
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,nextjs,postgres,react,tailwind,ts" width="400" />
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div >
       <div>
         <img align="left" src="https://i.pinimg.com/564x/cf/18/ad/cf18ad23ee246a4f9db0d2c9077e9c7d.jpg" width="300"> 
       </div>
-
   <div>
     <h3>
-            My web developer Skills 🪶     
+           developer Skills 🪶
     </h3>
     <ol>
         <li>
@@ -31,6 +61,7 @@
     </ol>
         
   </div>
+  
 </div>
 <br>
 <br>
@@ -38,7 +69,6 @@
 <br>
 <br>
 <br>
-
 
 # 🩷 My performance 🩷
 
