@@ -28,6 +28,9 @@
             Familiar with node.js, MongoDB, Mysql
           </li>
           <img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,nextjs,postgres,react,tailwind,ts" width="400">
+      <li>
+            Familiar with node.js, MongoDB, Mysql
+          </li>
     </ol>
         
   </div>
