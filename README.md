@@ -59,6 +59,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 # 🩷 internship experience 🩷
 
@@ -87,6 +89,7 @@
 
 
 - Worked as an AI Engineer at Ztrus, developing data extraction services using OCR and NLP techniques.
+<br>
 <br>
 <br>
 <br>
