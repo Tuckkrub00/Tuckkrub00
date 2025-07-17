@@ -12,10 +12,10 @@
   <div>
     <h3>AI ML Skills :</h3>
     <ul>
-      <li>🧠 Machine Learning: Supervised/unsupervised learning, model evaluation</li>
-      <li>🗣️ Natural Language Processing (NLP): Text preprocessing, tokenization, transformers, LLMs (GPT, BERT), Hugging Face</li>
+      <li>🧠 Machine Learning: Supervised/unsupervised learning</li>
+      <li>🗣️ Natural Language Processing (NLP)</li>
       <li>🤖 Deep Learning: PyTorch, neural networks, CNNs, RNNs</li>
-      <li>🛠️ Tools & Libraries: Python, NumPy, pandas, spaCy, NLTK, OpenAI API, LangChain, PyTorch Lightning</li>
+      <li>🛠️ Tools & Libraries: Python, NumPy, pandas,LangChain, PyTorch Lightning</li>
       <li>☁️ Deployment & MLOps: Streamlit, FastAPI, Docker</li>    
     </ul>
     <h3>Projects & Research :</h3>
