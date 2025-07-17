@@ -59,7 +59,6 @@
 <br>
 <br>
 <br>
-<br>
 
 # 🩷 internship experience 🩷
 
