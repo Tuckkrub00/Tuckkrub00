@@ -24,7 +24,7 @@
       <li>Built an AI service to extract tabular data from documents with high accuracy</li>
       <li>Built transformer model from scratch</li>
     </ul>    
-    <img src="https://skillicons.dev/icons?i=fastapi,pytorch,tensorflow,py" width="400" />
+    <img src="https://skillicons.dev/icons?i=fastapi,pytorch,tensorflow,py" />
   </div>
 </div>
 <br>
