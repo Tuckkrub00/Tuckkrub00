@@ -22,16 +22,11 @@
     <ul>
       <li>Fine-tuned a large language model (LLM) to develop a chatbot capable of providing health counseling, enhanced with retrieval-augmented generation (RAG) for accurate and context-aware responses.</li>
       <li>Built an AI service to extract tabular data from documents with high accuracy</li>
-      <li>🤖 Deep Learning: PyTorch, neural networks, CNNs, RNNs</li>
-      <li>🛠️ Tools & Libraries: Python, NumPy, pandas, spaCy, NLTK, OpenAI API, LangChain, PyTorch Lightning</li>
-      <li>☁️ Deployment & MLOps: Streamlit, FastAPI, Docker</li>    
+      <li>Built transformer model from scratch</li>
     </ul>    
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,nextjs,postgres,react,tailwind,ts" width="400" />
+    <img src="https://skillicons.dev/icons?i=fastapi,pytorch,tensorflow,py" width="400" />
   </div>
 </div>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
